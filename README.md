@@ -4,6 +4,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Install:
+
+`npm install @testing-library/jest-dom@5.11.4`
+`npm install @testing-library/react@11.1.0`
+`npm install @testing-library/user-event@12.1.10`
+`npm install react@17.0.2`
+`npm install react-dom@17.0.2`
+`npm install react-redux@7.2.4`
+`npm install react-scripts@4.0.3`
+`npm install redux@4.1.0`
+`npm install web-vitals@1.0.1`
+
 In the project directory, you can run:
 
 ### `npm start`
